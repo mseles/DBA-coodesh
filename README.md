@@ -7,9 +7,9 @@ Nesse desafio trabalharemos utilizando a base de dados da empresa Bike Stores In
 
 Com isso, teremos que trabalhar com várioas consultas utilizando conceitos como `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `GROUP BY` e `COUNT`.
 
-### Obrigatório
- 
-- Trabalhar em um FORK deste repositório em seu usuário;
+### Instruções iniciais obrigatórias
+
+- Utilizar o seu github pessoal para publicar o desafio. Confirme que a visibilidade do projeto é pública (não esqueça de colocar no readme a referência a este challenge);
 - O projeto deverá ser desenvolvido usando a sintaxe do SQL;
  
 
@@ -57,4 +57,4 @@ Após essa etapa será marcado a apresentação/correção do projeto.
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com. 
+Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
