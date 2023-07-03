@@ -15,3 +15,4 @@ Coleção de consultas SQL com a finalidade de obter métricas relevantes para e
  - sql03.sql: Listar os Produtos sem Estoque;
  - sql04.sql: Agrupar a quantidade de vendas que uma determinada Marca por Loja;
  - sql05.sql: Listar os Funcionarios que não estejam relacionados a um Pedido;
+ - TableAndData.sql: Cricao das tabelas e inserts de dados aleatorios.
